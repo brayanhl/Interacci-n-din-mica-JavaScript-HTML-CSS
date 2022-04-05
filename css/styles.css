@@ -1,0 +1,241 @@
+h4
+{
+    color: #2684bd;
+    font-weight: bold;
+}
+.centro
+{
+    width: 34%;
+}
+.derecha,.izquierda
+{
+    width: 33%;
+}
+.num 
+{
+    width: 2.5em;
+    border: 3px solid #1f76b1;
+    color:#1f76b1;
+}
+.cuadro1
+{
+    border: 1px solid #aaa;
+    width: 14em;
+    height: 7em;
+    background: #D0E4F5;
+    border-radius: 50px 30px 0 30px;
+}
+.cuadro2
+{
+    border: 1px solid #aaa;
+    width: 14em;
+    height: 6em;
+    background: #D0E4F5;
+    border-radius: 30px 50px 30px 0;
+}
+.cuadro3
+{
+    border: 1px solid #aaa;
+    width: 14em;
+    height: 6em;
+    background: #D0E4F5;
+    border-radius: 30px 0 30px 50px;
+}
+.cuadro4
+{
+    border: 1px solid #aaa;
+    width: 14em;
+    height: 6em;
+    background: #D0E4F5;
+    border-radius: 0 30px 50px 30px;
+}
+textarea
+{
+    border: 4px solid #186599;
+    background-color: rgb(223, 215, 215);
+}
+.check
+{
+    width: 1em;
+    height: 1em;
+}
+.btn-1
+{
+    background-color: #1C6EA4;
+    border-color: #1C6EA4;
+    color: white;
+}
+.stylesec,.colorsec,.positionsec
+{
+    width: 5em;
+}
+
+.btn-solid
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px solid #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-dotted
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px dotted #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-dashed
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px dashed #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-double
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px double #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-groove
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px groove #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-ridge
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px ridge #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-inset
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px inset #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-outset
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px outset #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-hidden
+{
+    height: 2.5em;
+    width: 6em;
+    border: hidden;
+    background: #e7e6e6;
+}
+.btn-none
+{
+    height: 2.5em;
+    width: 6em;
+    border: none;
+    background: #e7e6e6;
+}
+.btn-solid:hover
+{
+    background: #D0E4F5;
+}
+.btn-dotted:hover
+{
+    background: #D0E4F5;
+}
+.btn-dashed:hover
+{
+    background: #D0E4F5;
+}
+.btn-double:hover
+{
+    background: #D0E4F5;
+}
+.btn-groove:hover
+{
+    background: #D0E4F5;
+}
+.btn-ridge:hover
+{
+    background: #D0E4F5;
+}
+.btn-inset:hover
+{
+    background: #D0E4F5;
+}
+.btn-outset:hover
+{
+    background: #D0E4F5;
+}
+.btn-hidden:hover
+{
+    background: #D0E4F5;
+}
+.btn-none:hover
+{
+    background: #D0E4F5;
+}
+.p3 .color 
+{
+    width: 5em;
+}
+.btn-all
+{
+    height: 2.5em;
+    width: 6em;
+    border: 5px solid #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-top
+{
+    height: 2.5em;
+    width: 6em;
+    border: none;
+    border-top: 5px solid #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-right
+{
+    height: 2.5em;
+    width: 6em;
+    border: none;
+    border-right: 5px solid #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-bottom
+{
+    height: 2.5em;
+    width: 6em;
+    border: none;
+    border-bottom: 5px solid #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-left
+{
+    height: 2.5em;
+    width: 6em;
+    border: none;
+    border-left: 5px solid #1C6EA4;
+    background: #e7e6e6;
+}
+.btn-top:hover
+{
+    background: #D0E4F5;
+}
+.btn-right:hover
+{
+    background: #D0E4F5;
+}
+.btn-left:hover
+{
+    background: #D0E4F5;
+}
+.btn-bottom:hover
+{
+    background: #D0E4F5;
+}
